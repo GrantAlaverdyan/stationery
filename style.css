@@ -21,9 +21,30 @@ h1 {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    border-radius: 19px;
 }
 
 .pen {
     background-image: url("https://galagraffity.ru/image/cache/catalog/YMLf18ab3f7e2af27bacc4402df8e54aab4/ruchki/IMG435e72175d3fbca941f4a60dc3dabc5b-767x767.jpg");
+    background-size: cover;
+}
+
+.ruler {
+    background-image: url("https://cdn3.static1-sima-land.com/items/3002904/1/280.jpg?v=1526284585");
+    background-size: cover;
+}
+
+.pencil {
+    background-image: url("https://illan-gifts.ru/api/images/karandash-cay-394766.jpeg");
+    background-size: cover;
+}
+
+.eraser {
+    background-image: url("https://artmarker.ru/upload/iblock/7a4/7a4aea5d2322e81fcb91dd5e2d0a968e.jpeg");
+    background-size: cover;
+}
+
+.putty {
+    background-image: url("https://www.shkolnick.ru/image/cache/catalog/i/fj/go/72500c37f136f363d48f1d3bc37e4eed-450x450.jpg");
     background-size: cover;
 }
